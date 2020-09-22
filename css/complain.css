@@ -1,0 +1,22 @@
+body {
+  width:300px;
+  height:200px;
+  background-image: url("../res/images/nature.jpg");
+
+}
+h1 {
+  color: red;
+  font-family: verdana;
+  font-size: 200%;
+}
+p  {
+  color: blue;
+  font-family: courier;
+  font-size: 100%;
+}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}

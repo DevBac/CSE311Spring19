@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.box {
+	width: 25%;
+	margin: 200px auto;
+}
+
+.box h1 {
+	text-align: center;
+	color: green;
+}
+
+.box input {
+	width: 100%;
+	height: 35px;
+}
+
+.box input[type="text"] {
+	font-size: 16px;
+	padding-top: 10px 0px 10px 0px;
+	border: 2px solid green;
+	border-radius: 4px;
+}
+
+.box input[type="submit"] {
+	color: white;
+	width: 100%;
+	margin-top: 10px;
+	background-color: green;
+	border-radius: 8px;
+}
+.box input[type="submit"]:hover {
+	color: green;
+	background-color: yellow;
+}
